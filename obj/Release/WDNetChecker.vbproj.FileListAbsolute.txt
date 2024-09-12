@@ -1,0 +1,11 @@
+C:\Users\Greg\Documents\WDNetChecker\WDNetChecker\bin\Release\WDNetChecker.exe.config
+C:\Users\Greg\Documents\WDNetChecker\WDNetChecker\bin\Release\WDNetChecker.exe
+C:\Users\Greg\Documents\WDNetChecker\WDNetChecker\bin\Release\WDNetChecker.pdb
+C:\Users\Greg\Documents\WDNetChecker\WDNetChecker\bin\Release\WDNetChecker.xml
+C:\Users\Greg\Documents\WDNetChecker\WDNetChecker\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Greg\Documents\WDNetChecker\WDNetChecker\obj\Release\WDNetWatcher.Resources.resources
+C:\Users\Greg\Documents\WDNetChecker\WDNetChecker\obj\Release\WDNetWatcher.frmNetChecker.resources
+C:\Users\Greg\Documents\WDNetChecker\WDNetChecker\obj\Release\WDNetChecker.vbproj.GenerateResource.Cache
+C:\Users\Greg\Documents\WDNetChecker\WDNetChecker\obj\Release\WDNetChecker.exe
+C:\Users\Greg\Documents\WDNetChecker\WDNetChecker\obj\Release\WDNetChecker.xml
+C:\Users\Greg\Documents\WDNetChecker\WDNetChecker\obj\Release\WDNetChecker.pdb

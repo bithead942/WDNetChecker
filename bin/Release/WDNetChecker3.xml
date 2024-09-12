@@ -1,0 +1,231 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WDNetChecker3
+</name>
+</assembly>
+<members>
+<member name="T:WDNetChecker3.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:WDNetChecker3.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:WDNetChecker3.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:WDNetChecker3.WatchdogDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:WDNetChecker3.WatchdogDataSet.Event_Current_StateDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WDNetChecker3.WatchdogDataSet.Event_HistoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WDNetChecker3.WatchdogDataSet.Temp_Current_StateDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WDNetChecker3.WatchdogDataSet.Vent_HistoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WDNetChecker3.WatchdogDataSet.Temp_ControlDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WDNetChecker3.WatchdogDataSet.Insteon_ControlDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WDNetChecker3.WatchdogDataSet.Thermostat_HistoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WDNetChecker3.WatchdogDataSet.Call_CurrentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WDNetChecker3.WatchdogDataSet.Event_Current_StateRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WDNetChecker3.WatchdogDataSet.Event_HistoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WDNetChecker3.WatchdogDataSet.Temp_Current_StateRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WDNetChecker3.WatchdogDataSet.Vent_HistoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WDNetChecker3.WatchdogDataSet.Temp_ControlRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WDNetChecker3.WatchdogDataSet.Insteon_ControlRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WDNetChecker3.WatchdogDataSet.Thermostat_HistoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WDNetChecker3.WatchdogDataSet.Call_CurrentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WDNetChecker3.WatchdogDataSet.Event_Current_StateRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WDNetChecker3.WatchdogDataSet.Event_HistoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WDNetChecker3.WatchdogDataSet.Temp_Current_StateRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WDNetChecker3.WatchdogDataSet.Vent_HistoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WDNetChecker3.WatchdogDataSet.Temp_ControlRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WDNetChecker3.WatchdogDataSet.Insteon_ControlRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WDNetChecker3.WatchdogDataSet.Thermostat_HistoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WDNetChecker3.WatchdogDataSet.Call_CurrentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WDNetChecker3.WatchdogDataSetTableAdapters.Event_Current_StateTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WDNetChecker3.WatchdogDataSetTableAdapters.Event_HistoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WDNetChecker3.WatchdogDataSetTableAdapters.Temp_Current_StateTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WDNetChecker3.WatchdogDataSetTableAdapters.Vent_HistoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WDNetChecker3.WatchdogDataSetTableAdapters.Temp_ControlTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WDNetChecker3.WatchdogDataSetTableAdapters.Insteon_ControlTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WDNetChecker3.WatchdogDataSetTableAdapters.Thermostat_HistoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WDNetChecker3.WatchdogDataSetTableAdapters.Call_CurrentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WDNetChecker3.WatchdogDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:WDNetChecker3.WatchdogDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(WDNetChecker3.WatchdogDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:WDNetChecker3.WatchdogDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(WDNetChecker3.WatchdogDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:WDNetChecker3.WatchdogDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(WDNetChecker3.WatchdogDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:WDNetChecker3.WatchdogDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:WDNetChecker3.WatchdogDataSetTableAdapters.TableAdapterManager.UpdateAll(WDNetChecker3.WatchdogDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:WDNetChecker3.WatchdogDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:WDNetChecker3.WatchdogDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
